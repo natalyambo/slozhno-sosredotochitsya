@@ -10,12 +10,13 @@
   --main-font-size: 18px;
   --main-gap: 20px;
   --mobile-gap: 10px;
-  --main-font-family: "IBM Plex mono", "Arial", sans-serif;
+  --main-font-family: "IBM Plex mono", monospace;
   --background-color: #000028;
   --background-image: url(../images/cover-image-dark.png);
   --display-decor: block;
   --title-shadow: #ff0070;
   --button-color: #ff0070;
+  --button-hover-color: 255, 0, 112;
   --section-title-color: #ff0070;
   --section-subtitle-color: #000028;
   --decor-color: #ff0070;
